@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### click cities to change Weather
+### Click cities to change Weather
 
 <img width="1905" alt="截屏2022-08-13 下午11 06 11" src="https://user-images.githubusercontent.com/102653919/184495500-1cfc1906-e785-469b-becd-8920c31ca545.png">
 
